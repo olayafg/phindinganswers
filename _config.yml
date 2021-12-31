@@ -1,7 +1,7 @@
-title: Preserve This Podcast
-description: Preserve This Podcast is a project funded by the Andrew W. Mellon Foundation. We want to make sure that podcasts don’t disappear as software formats change and RSS hosting services go down.
+title: PhinDing Answers
+description: 
 baseurl: ""
-url: "http://www.preservethispodcast.org"
+url: "https://olayafg.github.io/phindinganswers/"
 
 # Markdown settings
 markdown: kramdown
@@ -25,13 +25,13 @@ plugins:
   - jekyll-sitemap
 
 # Podcast Feed settings
-title:          Preserve This Podcast
-email:          preservethispodcast@protonmail.com
-description:    "Preserve This Podcast is an Andrew W. Mellon grant-funded project hosted by the Metropolitan New York Library Council (METRO) to help podcasters protect their work against the threats of digital decay."
-subtitle:       "A podcast about saving your podcast."
-url:            http://preservethispodcast.org/
+title:          PhinDing Answers
+email:          phindinganswers@gmail.com
+description:    "PhinDing Answers is a podcast about the postdoc experience through the voices of those who have done it"
+subtitle:       "A podcast to answer all your the postdoc questions"
+url:            https://olayafg.github.io/phindinganswers/
 language:       en-us
-author:         PreserveThisPodcast
+author:         PhinDingAnswers
 copyright:      "CC BY 4.0"
 
 feed:
