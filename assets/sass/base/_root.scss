@@ -53,21 +53,6 @@ main {
 	box-shadow:none;
 }
 
-.btn-group button {
-  background-colour: $blue-light;
-  border: inherit;
-  color: $white;
-  padding: 10px 24px; /* Some padding */
-  cursor: pointer;
-  float: left; /* Float the buttons side by side */
-}
-
-.btn-group button:not(:last-child) {
-  border-right: none; /* Prevent double borders */
-}
-
-
-
 header {
 	position:absolute;
 	top:$gap/2;
