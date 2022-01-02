@@ -18,7 +18,7 @@ $radius: 0px;
 $radius-large: 0px;
 
 $navbar-background-color: rgba(255,255,255,0);
-$footer-background-color: $primary;
+$footer-background-color: $blue;
 $navbar-burger-color: $white;
 
 @import 'node_modules/bulma/bulma';
@@ -255,7 +255,7 @@ section#episodes {
 section#guests {
 
 	.box {
-		background: $blue-light;
+		background: $blue;
 		height:100%;
 		width:100%;
 
@@ -282,33 +282,6 @@ section#guests {
 			margin-bottom:0;
 			img {
 				height:100%;
-			}
-		}
-	}
-}
-
-section#events {
-	background:$primary-light;
-
-	.box {
-		color:$white;
-		p a { color:$white; text-decoration: underline; }
-		background: $dark;
-
-		h2 {
-			color:$dark;
-			background:$blue;
-			padding: $button-padding-vertical $button-padding-horizontal;
-			margin-left:-$box-padding;
-		}
-
-		.event {
-			border-top: 2px solid $blue;
-			padding: $gap/8 0 $gap/4;
-			h3 {
-				font-family: $family-secondary;
-				font-size:$size-3;
-				font-weight:bold;
 			}
 		}
 	}
