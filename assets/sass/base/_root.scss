@@ -139,7 +139,7 @@ section#intro {
 	position:relative;
 	h2 {
 		font-size:$size-1;
-		color:$white;
+		color:$dark;
 		font-weight:$weight-bold;
 		padding:$gap/2 0;
 		@include mobile {
