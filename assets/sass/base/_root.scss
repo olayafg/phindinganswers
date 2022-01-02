@@ -153,7 +153,7 @@ section#intro {
 		bottom:32px;
 		left:50%;
 		transform:translateX(-50%);
-		color:$white;
+		color:$dark;
 
 		@include strong-type();
 		div {
@@ -252,7 +252,7 @@ section#episodes {
 	}
 }
 
-section#zine {
+section#guests {
 
 	.box {
 		background: $blue-light;
@@ -260,8 +260,8 @@ section#zine {
 		width:100%;
 
 		h2 {
-			color:$white;
-			background:$dark;
+			color:$dark;
+			background:$white;
 			padding: $button-padding-vertical $button-padding-horizontal;
 			margin-left:-$box-padding;
 		}
@@ -311,24 +311,6 @@ section#events {
 				font-weight:bold;
 			}
 		}
-	}
-}
-
-section#survey {
-	background:$blue;
-
-	.box {
-		padding:30px;
-
-		@include mobile {
-			h2 {
-				font-size: 1.5rem;
-			}
-		}
-	}
-
-	.box small {
-		font-family:$family-secondary;
 	}
 }
 
