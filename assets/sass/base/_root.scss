@@ -54,11 +54,11 @@ main {
 }
 
 .btn-group button {
-  background-colour: inherit;
+  background-colour: $blue-light;
   border: inherit;
-  color: inherit;
+  color: $white;
   padding: 10px 24px; /* Some padding */
-  cursor: inherit;
+  cursor: pointer;
   float: left; /* Float the buttons side by side */
 }
 
