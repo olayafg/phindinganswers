@@ -187,7 +187,7 @@ section#intro {
 		background: url('../images/PA_bkgr.svg') no-repeat center center;
 		background-size:contain;
 		@include touch(){
-			background-image: url('../images/PA_bkgr.svg');
+			background-image: url('../images/PA_bkgr_mobile.svg');
 		}
 	}
 }
