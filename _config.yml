@@ -32,7 +32,7 @@ subtitle:       "A podcast to answer all your the postdoc questions"
 url:            https://olayafg.github.io/phindinganswers/
 language:       en-us
 author:         PhinDingAnswers
-copyright:      "CC BY 4.0"
+copyright:      "CC BY-NC-ND 4.0"
 
 feed:
   collections:
