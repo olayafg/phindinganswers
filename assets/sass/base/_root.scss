@@ -54,11 +54,19 @@ main {
 }
 
 .btn-group button {
-  background-color: $primary;
-  color: $white;
-  padding: 10px 24px;
-  float: left;
+  background-colour: inherit
+  border: inherit
+  color: inherit
+  padding: 10px 24px; /* Some padding */
+  cursor: inherit
+  float: left; /* Float the buttons side by side */
 }
+
+.btn-group button:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+
+
 
 header {
 	position:absolute;
