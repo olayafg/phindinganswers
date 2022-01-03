@@ -53,6 +53,10 @@ main {
 	box-shadow:none;
 }
 
+.row {
+  display: flex;
+}
+
 header {
 	position:absolute;
 	top:$gap/2;
