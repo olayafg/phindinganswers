@@ -53,16 +53,21 @@ main {
 	box-shadow:none;
 }
 
-.row {
-  display: flex;
-}
-
+/* Five image containers */
 .grid {
-  flex: 20%;
+  float: left;
+  width: 20%;
   padding: 5px;
 }
 
-/* Responsive layout - makes the grid columns stack on top of each other instead of next to each other */
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Responsive layout: stack on top of each other */
 @media screen and (max-width: 500px) {
   .grid {
     width: 100%;
