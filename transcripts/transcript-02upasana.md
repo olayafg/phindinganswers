@@ -1,175 +1,305 @@
-# Ep2—Get Organized Transcript
+# Ep2 — Upasana Roy transcript
 
-MOLLY: If you ask people what inspired them to get into audio storytelling, Ira Glass is usually part of the story. Dan Weissmann is no exception.
+Upasana:
+Well, I'm a Upasana Roy. I'm a postdoc at Columbia University in the Department of Biochemistry and Molecular Biophysics. Um, my pronouns are she/her, I'm originally from India and I came to the United States in 2012 to do my PhD at Stony Brook in the Department of Chemistry.
 
-DAN: I actually met Ira Glass while we were reporting on the same high school. 
+Peter:
+Well, welcome to our show. We are so thrilled that you're taking time out of your busy postdoc life.
 
-MOLLY: This is back in 1992 -- almost 30 years ago now. Dan was a young magazine reporter. Ira Glass was a radio reporter at WBEZ. For a few hours, they were both at Taft High School in Chicago, covering stories. A few weeks later, Dan listened to Ira’s radio piece.
+Olaya:
+Yeah. Thank you, Upasana. It's always good to hear that a postdoc is not working on a weekend.
 
-IRA: All year long, the teachers see students who slouch and gossip. Students who wear clothing that teachers don't understand. Students who need prodding and discipline and constant surveillance. And then, on prom night, the students reappear, transformed as in a dream.
+Upasana:
+<laugh> Yeah, no, thank you guys for inviting me and for putting this together. I think it's really awesome.
 
-DAN: I was like, oh my god, this is so good, this is so much better than what I am doing, this is so much more fun. it hadn't occurred to me that radio could do that. It just seemed like people who did radio had all of the fun.
+Peter:
+Well, we are happy to have you, I will say I have never understood chemistry, so I'm hoping through this conversation that will kinda osmosis through the microphone and into my brain. So just know that you have that burden on you now don't
 
-MOLLY: Dan decided he wanted to get in on the fun. So he started trying to make a career for himself in radio.
+Upasana:
+Don't wanna get your hopes up, but...
 
-[THEME MUSIC]
+Peter:
+Oh, they are high right now.
 
-Welcome to Preserve This Podcast, a show about how to save our podcasts. I’m Molly Schwartz. This podcast is brought to you by the Metropolitan New York Library Council with support from the Andrew W. Mellon Foundation. 
+Olaya:
+So without getting too much into chemistry. How would you define the postdoc position? Like, what is it to you?
 
-MOLLY: Hi again, it’s Molly Schwartz here. 
+Upasana:
+To me, a postdoc is all about kind of being an independent researcher. I guess I think of PhD as a time where, you know, your research is being guided by,, a lot by a PI, you have a thesis committee, you have people who kind of helping you learn, shaping your research. But to me, I think of postdoc as like, you're really in the driver's seat, you are leading the project forward thinking of questions and you're kind of independent in a way. So that's, to me the basic fundamental way I think of a postdoc, but it's also really, an important time and an opportunity to, you know, do other things like mentor people, you get a lot of opportunities to mentor students or, you know, just be an active member of your community research community and, maybe apply for grants, you know, learn how that is done. So it's also full of opportunity.
 
-If this is your first time tuning into Preserve This Podcast, I suggest you go back and start listening at the beginning. This is a five-part series where we teach podcasters how to preserve their files. In each episode we work with a different indie podcaster and walk them through one of our preservation exercises. By the end of the series, we hope every podcaster will be equipped to make a preservation plan for their files. 
+Peter:
+I am so happy to hear that you feel your postdoc is open for opportunity and that you're doing all of those things like mentoring and doing some career development. I'm curious since you are from India, are there differences between the perception of a postdoc in India versus the perception of a postdoc in the US?
 
-For this episode, we’re be focusing on Exercise 1: file organization. And we’ll be working with Dan Weissmann on his podcast An Arm and A Leg. If you’d like to follow along and do the exercises with us, you can download our zine from preservethispodcast.org. We’re starting on Page 5.
+Upasana:
+I would say in some ways, yes. So I actually did three years of research in India before I came here for a PhD. It's a very different kind of research culture environment. One of the things, for example, is extreme. Like it's pretty hierarchical in a traditional way. So there are very, you know, invisible boundaries between being a student and a postdoc and a faculty member. Here I feel like, you know, as a postdoc, you kind of interact very differently with other postdocs, with faculty members, with students. In India, I felt like the interactions were kind of really set in in a much more hierarchical environment. It's also kind of in India, you know, at least in my experience, you know, resources are very different. Availability of resources are very different in India versus the US. So a lot of time is spent, you know, preparing for a postdoc differently, working through research very differently. You have to like really plan ahead because reagents take time to come. Things are much more expensive. So the kind of, I feel stresses, or the kind of worries are kind of different in India than in the US.
 
-At this point Dan has been working in radio for 25 years. He’s is the kind of person who fills an awkward silence as easily as he breathes. He’s high-energy and fun to talk to. It doesn’t surprise me that radio is where Dan feels at home.
+Olaya:
+Did you meet any postdocs while you were doing research in India?
 
-But a little over a year ago, Dan’s latest contract as a radio reporter ran out. For his entire radio career Dan has been bouncing around between contract jobs and freelance work and teaching gigs. He’s married with a young kid. He’s getting tired of the instability that’s so common in this line of work. 
+Upasana:
+Yeah, so I should point out. I actually have had a lot of privileges in that way. I've come from a family that has a lot of academics, both my parents have PhDs. So I was really in this bubble of academia without knowing it. And it definitely has made academia much more accessible. I have obviously many more examples in my life, in my, circle of friends, family friends, and I didn't really realize how much of a difference it makes until I, you know, before my PhD, it really makes a huge difference to have such access. It's definitely a privilege and an advantage to have positive examples, positive role models, have access to information. So yeah, so I definitely did know a lot of postdocs. I knew about their experiences, very, very different experiences, but at least, you know, I had access to these stories and these experiences. And that really helped me, for sure.
 
-DAN: How do people figure it out? How do you figure out how to make a living? You know, you gotta have health insurance, you don’t want to end up in the poor house. 
+Peter:
+Yeah. I think that's a really good point. And I like the term you use of access 'cause it really does come down to like, what access do you have, whether that's to people, to information, to institutions opportunities. [UR: Absolutely]. So in your current position, what's a day in the life of your postdoc look like?
 
-MOLLY: Now Dan is on a quest. He’s decided to set out on his own and start a podcast. It’s called An Arm and a Leg. And the podcast is all about one of the big questions that Dan is facing in his own life -- how to figure out healthcare in America. 
+Upasana:
+So usually my day starts with coffee, before that I don't consider my day started. [Peter: <laugh> Good, good], get my brain cells caffeinated. And then basically, like I said, you know, postdoc is about an independent research career. So it's usually, you know, I'm following up from something I tried, some experiments I tried the past day. I usually at the end of the day kind of write down what worked, what didn't work, what I might want to do the next day. So in the morning I kind of go in, I go over things that I have done previously. I plan the kind of experiment I want to do in that day. I think about timing: when I want to start it, when do I wanna finish it? And usually my experiments take like a couple of hours anyway. So that takes up a big chunk of my day. And then there's always like small administrative things to be done: orders for the lab, catching up with other postdocs in the lab talking about what they're doing. And that's kind of what a typical day is. Sometimes there'll be talks and seminars that I want to attend. Sometimes there'll be things that, you know, meetings of the postdoc society that we have. And that usually concludes my day, around 6:30.
 
-But this new venture is risky. I’ve noticed something about most of the indie podcasters I know who’ve been successful --  they are capital O, ORGANIZED. They use spreadsheets for everything, from tracking invoices to logging tape. That’s because producing a podcast on your own, without any institutional support, requires a lot of project management. This is going to be a challenge for Dan because he’s not the most organized person. Here he is, a couple months into working on An Arm and A Leg.
+Olaya:
+You mentioned the postdoc society. I already know part of the answer to this because it's how I met you. But could you tell us a little bit more about what you do there, what you have done, 'cause you certainly have a lot going on outside of the lab.
 
-DAN: I am deep deep into the shit of the project planning part of this. I’m struggling with not being overwhelmed. I have a big, kind of giant post-it with three big columns: money, engagement, editorial, and a little one that says tech. 
+Upasana:
+Sure. Yeah. So like Olaya mentioned, we basically met through the postdoc society. So Columbia Iniversity has this volunteer-run organization. So it's just postdocs across the university who have taken out time from their day to kind of do things for other postdocs. So we basically have different committees. I, for example, have worked most closely with this committee called "Research and Professional Development". And basically this is a way, you know, it's a group of people and we are really interested in kind of doing events and programs to help postdocs kind of figure out the direction of their career or how to kind of enable them to do what they might wanna do after a postdoc. So some of these things include doing workshops, we had a writing scientific writing kind of workshop. Sometimes it involves career panels. So for example, we did this series called "Careers beyond the postoc", which is just a way to highlight non-academic careers that you can do after your PhD and your postoc. And there are so many options and we have like, you know, we just talked about access. We have very little access to these non-academic worlds being in academia, but there are so many options beyond the postdoc. So we try to invite speakers from different types of career paths and ask them about, you know, what their job is like, what do you like about it? What do you not like about it? Why should somebody go into this type of career field? And it's just a way for postdocs to learn about other careers. It's a way for postdocs to think about what they wanna do and even prepare for what they might wanna do. So we do a bunch of those kinds of events and yeah, it's a great place, it's a community amongst postdocs as well.
 
-MOLLY: Dan has a lot on his plate right now. But if he doesn’t take the time to figure out what files he has or where they are, it will be impossible to set up a preservation plan for them. 
+Peter:
+I mean, that sounds amazing and very glad you have that community around you, hopefully supporting you while you work to support them. It also sounds like it takes a fair amount of time and effort [Upasana: mm-hmm <affirmative>] so do you have any free time and if so, what do you do in it?
 
-DAN: Like if I had to organize this stuff now, even this relatively simple episode for next week, I would die inside and seize up. 
+Upasana:
+Yeah, I am very protective of my free time.
 
-MOLLY: The time for Dan to get organized is now. It might be painful, but probably not as painful as he thinks. And that’s why the Preserve This Podcast team is here. To give him some guidelines on how to move forward. 
+Olaya:
+As shown by doing a podcast during a weekend <all laugh>
 
-Mary Kidd and Dana Gerber-Margie are two archivists working with me on Preserve This Podcast. They’ve worked with organization systems for large collections of files. 
+Upasana:
+Well, this is a fun thing I'm doing. [Olaya: oh, thank you. <all laugh>] No, I definitely, yeah, I definitely make sure I have free time every day at the end of my day, as much as possible and on the weekends. And usually on a daily basis, I am also very protective of the time before dinner <laugh> so I really enjoy cooking, you know, watching something fun, you know, making a nice meal enjoying with my partner. This is an important time for me and on weekends, you know, I like, doing things outdoors, when the weather is nice go camping or hiking and yeah... Eating out a lot.
 
-Mary explains that organization serves two main purposes: It helps you know what you have. And then it helps you find it. 
+Olaya:
+Yay.
 
-MARY: If you think of all the things that you make digitally, think of that as like an ocean of stuff. And folders are kind of a way to navigate the great ocean of digital stuff. 
+Peter:
+As a chemist, do you use any of those skills to inform your cooking at all?
 
-MOLLY: Dana takes it one step further. She says that organization not only helps you find your own work -- it also helps other people find your work.
- 
-DANA: I think of organization as a way to send a message to people who come after you. If you organize things in a certain way you can display how your own mind works and you can also contextualize things that way... Organization can be like breadcrumbs through a forest, you can go forward through them on a path, and then you can make your way back by following that same path. 
+Upasana:
+Well, I would say that I can't confidently call myself a chemist, I would say maybe biochemist, but I definitely think that a lot of the same skills in cooking, I enjoy, for example, I really working like working with my hands. So, you know, in experiments as part of why, you know, I enjoy doing experiments is like, you know, being very meticulous about what I'm doing in lab. And I really enjoy being meticulous in the kitchen as well. Sometimes too, the frustration of people I'm cooking with <all laugh>, but actually during COVID we used to do a lot of cook-alongs with friends and, you know, we just put the video on, decide on some recipe and just cook together. And I was definitely the slowest, but I think I was enjoying it the most.
 
-MOLLY: There are some epic examples of how file organization can work for large-scale operations. One of them is Storycorps. StoryCorps is a non-profit organization that records hundreds of thousands of interviews across the United States.
+Peter:
+And I'm sure your food was the best. They just, [Upasana: oh, thank you]. cannot confirm nor deny. So it sounds like you are a fabulous and wonderful cook as well as a leader in the postdoc society and a biochemist by trade, [Upasana: mm-hmm <affirmative>] could you tell us a little bit more about who you are?
 
-TAMARA: Our naming convention works for us because it allows us, at a glance, to differentiate files from each other.
+Upasana:
+Yeah, that's a hard one. Who am I? I guess I am somebody who is excited about learning new things. I enjoy kind of the wonder in everyday things or, you know, around me in nature. I like being outdoors because there's often really cool things to see. I guess I'm a person who likes, I don't know, collaborative things, working together with people for some common purpose. I think that's kind of why this postdoc society stuff is quite rewarding, but I guess paradoxically, I'm also kind of an introvert, so it's a funny balance I have going on. Yeah. I guess I don't have that many descriptions for myself. <laugh>
 
-MOLLY: That’s Tamara Thompson. She’s an archivist at StoryCorps. 
+Peter:
+No, all of that sounds like they make for a wonderful researcher postoc person.
 
-TAMARA: And also gives us information about when the interview was recorded, when the interview was created and also, where it was created. Just from the first three letters, we know from whence it came. 
+Olaya:
+She is, she is.
 
-MOLLY: No matter how many thousands of files Storycorps collects, they always know where those files go and where to find them.
+Peter:
+I love it.
 
-TAMARA: If you ANY have interest in finding ANYthing, at all, then it is key. 
+Upasana:
+Oh, thank you.
 
-And that's the great thing about really strong file naming conventions. That it can unite your archive in a way that makes it more accessible to you, more accessible to the public, and more easily corralled, if you will.
+Olaya:
+How do you find that all those intertwining pieces shape your experience as a postdoc?
 
-MOLLY: The point of preservation is that people will be able to listen to your podcast years from now -- even when you’re no longer alive. A GOOD organization system will help other people, like archivists, find and understand what you’ve created.
+Upasana:
+I definitely think that it has played, for example, this whole sense of, you know, being excited to learn new things is definitely kind of the crux of why I wanted do a postdoc anyway. I do enjoy learning things discovering things and, uh, more than just doing your own research, I like, you know, in a postdoc you're in an environment where you're learning things, not just from the experiments you're doing yourself, but from others around you. And I like that environment a lot. There's always something to learn, you know, what the neighboring lab is doing, what your friend that you're meeting is working on. So there's always opportunity to learn new things that are cool and fun. So I really like that. I guess it has also kind of helped shape what I look for in my interactions as a postdoc. So, you know, I really value for example, people who are collaborative in their science people who are, you know, at seminars or talks, asking questions because they wanna get to an answer or learn something and not just asking questions for, you know, sometimes it can be a toxic place. There are people who will ask questions just to bring someone else down. And it's definitely shaped my relationships in the scientific community and in and around me is people who think like me and have priorities like me. I've definitely gravitated towards those scientific relationships, I think. So I feel like these things kind of have shaped the spaces that I occupy in my postdoc.
 
-So that’s what we’re going to do with Dan today. Get him started on the road to a good organization system. To take away some of the stress of doing it alone, I gave Dan a call to walk him through the first exercise in our Preserve This Podcast zine. 
+Peter:
+Thankfully it sounds like you've been able to do that successfully. You've joined the postdoc society. You seem to have some good collaborations going on [Upasana: mm-hmm <affirmative>], so can you tell us a little bit more about how you found your quote unquote community over at Columbia and like who are those people that you sought to build that community with?
 
-DAN: OK, your phone’s ringing... 
+Upasana:
+Yeah, so typically I would say before my PhD, I think I would not have found these kinds of communities outside of my lab, but in my PhD, I had a very close friend, really smart, really generous, enterpriseing friend who decided she wanted to start an organization in our graduate school. And there, she volunteered me for an executive committee position [Olaya: as you do], which I resented, yes, as you do, which I resented immediately, but kinda, you know, begrudgingly, I showed up and I was doing things and it turned out to be the most, you know, one of the happiest experiences during my grad school, just meeting all these people who literally are volunteering their time to do stuff for others. And you know, it's definitely very rewarding. You find people who are willing to share their experiences, kind of help you out. And so, that really taught me the value of looking for this type of community outside of your own individual work at your lab bench. And so when I came to Columbia, I saw that there's this postdoc society I showed up for some meetings and found same kind of like, you know, community of people thinking about, you know, what would other postdocs benefit from? What would they enjoy? You know, what would be helpful? And, you know, as you think about these things, you kind of, you know, bond over it in some way you kind of share common experience. So that's how I met Olaya. You know, we worked for many years together, just amazing. And it's a way of also inspiring each other. Like she has inspired me to do so many things. She's just like you know, getting things done, you know, constantly thinking about what would be nice for others. And so I feel like, you know, even in a way when I was, you know, things weren't going well in my own research, things weren't working out, you know, being part of this community where everybody's inspiring each other, you're doing things, the sense of you feel kind of a reward, you know, when things get done, that's been very valuable. So yeah, I found these other postdocs doing awesome things for others and, you know, it's a great place to connect with others and, and do things together.
 
-MOLLY: Hello?
+Olaya:
+Thank you. Thank you for your words, Upasana. And I really enjoyed the time that we had together and I think [Upasana: absolutely] Upasana is a real team player. And she also did a lot for CUPS, both as president [Upasana: Um, oh, thank you] and in the career development committee, 'cause those career beyondthe postdoc events that she mentioned, she has a lot to do with that. So in this community, both the scientific and the sort of more social networky one with the postdoc society. Who is there? Do you find that it's fairly homogeneous or have you found people from all across the board there?
 
-DAN: Heyyy, OK cool.
+Upasana:
+I think they're all across the board, to be honest. I do think that there are a lot of internationals. Personally, I found it nice because you know, you have a lot of shared experiences. So I definitely connected with a lot of other international postdocs through CUPS as well. But yeah, we have people from different departments, different stage of their postdocs as well. Usually I guess newer postdocs tend to come in to CUPS because they're full of energy and excitement and...
 
-MOLLY: Again, if you’d like to follow along with us, you can download the zine at preservethispodcast.org. 
+Olaya:
+And they don't know people and it's a great way of meeting people. I wouldn't have met you. [Upasana: That's so true] if it weren't for the postdoc society. [Upasana: That's so true]. And we literally worked in the same campus, like across the street.
 
-DAN: My system for organizing things, is not terrible, but isn’t perfect. I would love some coaching from you in like tightening that up. Where should we start?  
+Upasana:
+Yep. Yep. That's so true.
 
-MOLLY: So I think we’ll start by walking through the zine together. 
+Peter:
+Mm-hmm <affirmative>
 
-We start by opening up the zine to page 6. This exercise is called “Get Organized!” 
+Olaya:
+I don't know for other universities, this is probably also true. Many campuses, the departments are fairly isolated.
 
-DAN: My approach to file management is... I've tried to be as not stupid about it as possible, 
+Upasana:
+Mm-hmm <affirmative>.
 
-MOLLY: We’ve broken organization up into two parts: folder structures and file naming. Dan and I get started with foldering. In order to create a folder structure that works for Dan, first we have to map out his current production process. 
+Peter:
+Right. Academia is nothing if not good at silos.
 
-We’d like to work with Dan’s logic rather than fight it. So the first step is for Dan to think about all the steps he takes to make a podcast. And then write them down, in sentence format. Like a story. 
+Upasana:
+mm-hmm <affirmative> And also I feel like that's particularly unique to postdocs because, you know, as a graduate student, you have your you're doing classes with others. You already have a community that is through school, through graduate school. You know, I had friends in other departments just because you're in the same classes together. So you really get to know a lot of people. But in a postdoc you're basically in your lab, you don't have a sense of community outside of that unless there are these kinds of spaces. So I think it's, it's particularly true for postdocs compared to, for example, graduate students.
 
-DAN: I do interviews, which I capture on my digital recorder, and move ASAP to the external hard drive. 
+Olaya:
+And that relates a lot to institutional support, which we're gonna cover in the episode with Ericka Peterson, uh, who is a postdoc admin [Upasana: mm-hmm <affirmative>] at Columbia as well. [Upasana: Yeah] But I think it is very different. Grad school has a lot of institutional support, whereas the postdocs, depending on the institution, it can vary a lot. And so if you're in an institution [Upasana: Absolutely] which doesn't have that structure, it can be really hard to meet other postdocs outside your immediate environment. So I am really happy that you found that community and you're definitely using it well <laugh>.
 
-MOLLY: Dan is essentially mapping out his production process. And it’s pretty involved. It takes Dan 24 minutes to walk me through it.
+Upasana:
+No, I totally agree. Yeah.
 
-DAN: And that's pretty much the process.
+Olaya:
+So you're clearly, you're clearly doing fairly well as a postdoc, you seem enthusiastic about it, both with your science and [Upasna: mm-hmm <affirmative>] advocacy. Why did you actually start a postdoc?
 
-MOLLY: Yeah, so there’s like a lot of steps in there. And you’re interacting with a lot of different technology and creating a lot of different files. 
+Upasana:
+So I had, like I mentioned, I did, you know, research for a couple of years before I did a PhD, but that research experience was actually pretty bad. I was in a, kind of a pretty toxic environment. There was no joy in learning. It was, you know, it was just a bad experience overall, but, you know, because I had, you know, other, I had access to academia, like I said before, you know, I had, I knew other friends who were doing PhDs and I knew that there was a better model for doing research than just what I had experienced. So I decided to apply for a PhD. Thankfully, that was a really fantastic experience. I had a really great advisor. I had this really nice department environment. It was just really good experience. And so I really found the time to unlearn all the terrible things about my research experience and finally started to enjoy research during that time. Yeah. And I felt like I wasn't done with research. I wanted to do a few more years of it because I thought, you know, I was, I was enjoying it. And so I decided to apply for postdocs, because this is a time where you can kind of like do your own research, make your own decisions, drive it forward. And so I kind of wanna do that even though I wasn't really thinking about a faculty position necessarily afterwards, I was just more motivated to a postdoc because I wanted do research for a few more years, at least.
 
-Now that Dan has written out his process, it’s time for the next step in the exercise. 
+Olaya:
+Cool.
 
-Go through the narrative you just wrote and just like circle or highlight all the files. 
+Peter:
+I think that's a great reason to do a postdoc, for sure. Given your experience, especially including your advocacy work and the community you've built, would you do it again?
 
-This will help us come up with what we call a “master folder structure.” It’s like a template that he can make once and use over and over again. He can use it on his local computer drive, on his hard drive, and on shared drives like Google Drive. It’s a great way to stay organized. Dan is intrigued.
+Upasana:
+Yes, I think so. I think so. I, I do feel like, you know, a postoc is never easy. You know, you can never tell whether things are gonna work out in terms of your research, but I have been fortunate enough to have good experience and I would do it again.
 
-MOLLY: When you’re starting a new project, you can just copy and paste that skeleton folder structure.	
+Peter:
+Nice. Any specific highlights that you want to share with us that really made this time of your research career stand out?
 
-DAN: I can copy a structure? How do I do that? 
+Upasana:
+I think the satisfaction of asking questions in your research, answering them and having things work out that's that's of course, really, really satisfying, but what I do enjoy a lot about research and being in a research environment is being able to talk to other people about research. So the highlights, I would say of my postdoc are mostly giving talks about my work, because that's a great way to have people ask questions, to engage with people, really drive home what's really interesting about this... And it's also a great way to like connect with other of postdocs, ask about their research. So to me, I think all my highlights have been kind of talks, presentations, posters, where I get to talk at a very individual level with others about my science. I think that I, I really enjoy that.
 
-MOLLY: Create new folder.
+Olaya:
+More specifically, maybe skillwise, what would you say you've learned during your postdoc? When you're done with your postdoc, what will be the skills that you will say "I learned that during my postdoc"?
 
-DAN: Uh huh.
+Upasana:
+Yeah, that's a great question. One thing I learned is advocating for myself because, you know, I mean, when you're thrown into a postdoc, after being a graduate student where you really have, you know, people assigned to be invested in your progress and invested in your success. You're kind of on your own a bit during a postdoc in some ways, you don't have a thesis committee, for example, checking in on you and so on and so forth. So I feel like one of the things is thinking more independently about where I wanna go either in my own research, as well as outside of research in my career. And just trying to be a better advocate for myself, asking for things that I need, which is always very uncomfortable. I think I kind of did that. And I would say also just having the confidence in doing new things. I think that before, it's definitely been a confidence building exercise overall, you know, doing things with postdoc society, as well as in my research
 
-MOLLY: And let’s call this like episode 0. And then you go inside there and make a new folder. And then make a list of new folders,
+Peter:
+In many ways, and I'm very happy hear this, it sounds like you've had an exceptionally great experience as a postdoc. Do you have any challenges that you'd be willing to share with the audience?
 
-DAN: And then I just duplicate the empty set of folders. I can right-click and duplicate the folder, and now I’ve got a new folder that’s a copy of Episode 0, but I just rename that like Episode 5, and now I’ve got that structure. You're a genius, that's awesome. 
+Upasana:
+I mean, I know I make it sound like I have, I've had the best postdoc experience that is to have. But I also think that has a lot to do with kind of setting expectations of what I am happy with and what I want. So for example, I am not the most productive postdoc in my lab by far, if you were to go by, you know, metrics of publications and, such, and of course you, you're always feeling a little bit insecure, you know, when you know, what is the right amount of productivity, for example, and I, and I had mentioned that, and I'm very productive of my free time. You know, you, sometimes you have to question that. So those are always kind of, I think it's a part of being in research is there is no obvious, you know, set of expectations from you. So you have to set the expectations and that's always challenging because you can always have second thoughts and question, whether, you know, you could be doing more or whether, can you get more out of this? So I guess the in security is sometimes, you know, you have to reason with it, and that's always challenging. And also not just in my postdoc, I guess throughout all these years, being in research and academic environments, you know, you always encounter toxic behaviors and environments, and it's always a struggle interacting with these kinds of behaviors, but, you know, as long as you have a more healthy, positive set of relationships, you know, it's easier to get through those, but I think that's also kind of a challenge that you have to deal with while trying to be productive while trying to, you know, do your job.
 
-MOLLY: That’s a trick that Mary taught me. Yeah, no, it’s a really good one.
+Peter:
+Right.
 
-MOLLY: The great thing about folder structures is that they can be tailored to your working style. There’s no one right way to do it. We encourage you to follow your own narrative. Spot the patterns in the files you’re creating. And then set up a master structure that has a folder to map to each file type. We’ve laid out a sample structure on Page 8 of the zine. 
+Olaya:
+Yeah, sort of related to this... You've mentioned repeatedly that you like the independence and like being in control of your science and all that [Upasana: mm-hmm <affirmative>], but there's always the eternal question of how much guidance and support the postdocs should have. 'Cause like officially this is still sort of a training position [Upasana: mm-hmm <affirmative>] so yes, you're training to be an independent researcher, but how do you feel that interacts with like the support versus independence and how do you navigate that? Do you have any career development support in the lab, for example?
 
-DAN: I'm starting to figure out oh I need a folder for tracking, for my narration. Because it's not just one file cuz I'll do pickups. And then I need a folder for mixes. And then a folder for masters. Yeah so Episode One is a MESS. But I think episode 4 is gonna be less of a mess.
+Upasana:
+So, yes. So, as far as career development support is, so I would say one of the things I was looking for when I was looking for postdoc is I knew going in that I may be enjoying research and I want, want to do research for a few more years, but ultimately I don't want to stay in academia. Most likely, I don't want a faculty position. And so during my postoc interviews, I was kinda open and clear about it. In some cases, you know, person who's interviewing me did not receive it well, but thankfully in my current postoc, my PI is very open, receptive to any career that I want. And usually the thing with this, like I said, advocating for myself because I'm interested in non-academic careers, it's hard to find that within my lab and within academia, but if there is something that I need, I'm able to ask for it and get it. And so I really appreciate that. But again, that has kind of taught me to ask for things that I would normally be, you know, uncomfortable, but in terms of, you know, how much support versus independence you wanna get out of a postoc I also think it's a lot of, it has to be a matching game. So this is something that I was kind of looking forward to when I was interviewing for postdoc positions is I had thought about what are the things that I want most of sometimes, you know, but especially if you're changing fields a lot, maybe you need some more support. So that's something to look for in a postdoc lab. In my case, I had talked to all the students in postdocs who were there in the lab and, you know, they were very open to like kind of showing me how to do things and having that support system. So I guess it, how much support versus independence is something to ask yourself when going into a postdoc and seeking that out rather than it being a definite being the same for everybody, for example.
 
-MOLLY: OK, so Dan did the foldering exercise.
+Peter:
+Yeah, I think you've raised a really good point about expectations and maybe even communication with your PI [Upasana: mm-hmm <affirmative>] in terms of what it is that you are hoping to get out of your postdoctoral experience. And if they're not okay with you considering careers outside of academia, then you might want to think this won't be a good match. [Upasana: mm-hmm <affirmative>] and that's okay. <laugh>.
 
-Now it’s time to move onto the second part of “Get Organized.” This part starts on Page 9. And it’s all about figuring out a file naming convention. Which is just a formula for naming your files. 
+Olaya:
+Yeah, I love that you talked about communication. This has definitely come up with other people and I'm so happy to hear, people talk about this, 'cause I do feel postdocs coming in and current postdocs really need to advocate for themselves. So you mentioned interviewing with different PIs and talking about your goals, how did you eventually pick the lab where you're doing your postdoc?
 
-MOLLY: What is your current file naming convention?
+Upasana:
+Yeah, so actually when I was finishing up my PhD, I knew that I had enjoyed research. I wanted to do it for a few more years, but I had also kind of heard from people that if you don't wanna stay in academia, then you know, you could think about other options. So I was really forced to think about if I do a postdoc, who am I doing it with? And this particular lab that I'm currently in, I basically heard a talk from the PI one of the conferences. I really enjoyed seeing that. And I thought that if I'm going to be doing research for just a few more years and then move out of it, I wanna do something that I, where the work is motivating me enough to get me through. So we basically watch molecules work in real time using, you know, microscopy methods and this and that. So, you know, we study how DNA gets repaired and this lab had a very cool method of basically watching this happen in real time. And I just thought that was really fascinating. And I thought I would really like to do this for a couple of years [Peter: <laugh>] and that was the first thought going in. But obviously during the postdoc experience, I mean the interviewing experience, you have talked to the PI again, make sure that they're okay being open about the fact that, you know, what you plan after your postoc, how long you want it to be, talk to the students and postdocs currently in the lab, see what the environment is like. So even though the science was the thing that attracted me to the lab, I obviously had to consider all the other things about what the experience would be like.
 
-DAN: That’s a very good question, let’s see. So ok, so the first tracking that I did is called Tracking 11142018, and then I have preserved the default file name that my recorder gives to things at the end. 
-And then inside the folder called Pickups. These, uh, there are 1,2,3,4 and they are called uh Main Retrack 11152018 plus the Zoom name, Intro Retrack 11152018 plus the zoom names, 1115 pickups Good Take plus the zoom name. 
+Peter:
+So it sounds like you were already considering doing a postdoc when you met who is now your current PI at this conference. When did you start that process of exploring different labs for doing a postdoc in?
 
-MOLLY: Right now, Dan is naming files based on what makes sense to him in the moment, when he’s in the middle of production. But in the long term, it will be important for him to set up a system that’s consistent. Ideally, it will be a system that still makes sense to him 2 or 3 years from now. 
+Upasana:
+I would say, well, I've heard from a lot of people that they started thinking about it much earlier than I did. So I don't know whether my experience is representative, but I basically started applying maybe six to eight months before I was going to finish up. So it was a fairly last-minute compared to I think, other postdocs around me. But I think towards the end of my PhD, when I was really writing up my thesis, finishing up on my experiments and I had to like, think about what I want to do next. That's also, when I went to this conference, this was in the, towards the end of my PhD. And that's kind of what gave me ideas to. Apply to these different labs. So yeah, I would say maybe in the last year of my PhD, I started thinking about whether I enjoyed this research process enough to do a few more years of it. And that's when I started thinking about applying to postdocs and which labs to apply to
 
-When it comes to naming files, consistency is key.
+Peter:
+Well thought out, it sounds.
 
-DAN: And let's see if that's consistent... I have two files that are just the Zoom name, which is like Zoom0029 underscore tr1 and tr2... Yeah, it's not great. 
+Olaya:
+Oh, now it does! At the time, it did not feel very well thought out. [All: <laugh>]
 
-MOLLY: Dan knows he can make some major improvements to his file naming. Luckily, we provide a sample file naming convention on page 9. Our example starts with the year, month, and date that a file was created, all smooshed together with no spaces, then underscore, some kind of keyword to describe that file, dot the file type, so like dot wav or dot mp3. 
+Olaya:
+Do you have a plan to like phase out the postdoc?
 
-DAN: Yeah. Your naming convention notes are smart. Oh boy. Oh. Avoid using spaces. Yeah, ugh, god.
+Upasana:
+Yeah, I think I would probably wanna wrap up maybe in the next year. The problem is because you know, in research there's never a clear end point. There's always more things you can do, more things you can try. So it's really hard to extricate yourself from it. But, it's funny, I went to a conference recently and there, when you're a fourth-year postdoc, you know, the questions start coming up, you know, when are you gonna be on the job market? What are you doing? And that definitely precipitated some more thought about it. But I think maybe in the next year...
 
-MOLLY: It’s best to avoid spaces in file names because they make it trickier for computers to parse characters. Even though your Digital Audio Workstation and Dropbox might be happy enough working in a world of spaces, there are other systems -- especially ones that are automated systems that use scripts --  that will get tripped up. So it’s best to avoid them because we just can’t predict what programs we might be running our files through in the future. 
+Peter:
+I've never had a PI ask me, when I'm on the job market. [All: <laugh>] They've never wanted me that badly. [All: <laugh>]
 
-DAN: So I'm a little, um scared. About how much I've already created without having started with smart naming conventions, without following all the good rules, cuz it's a lot to go back and fix. 
+Upasana:
+No, this is actually funny. It was another postdoc, for example, who was asking me. So, you know, so I give a short talk at this conference and afterwards I'm talking to all these other people, and there's another postdoc and she asked me, oh, you know, "when will you be on the faculty job market?" And then I had to gently say, I am not on the faculty job market. And that was very perplexing to her. She, you know, she couldn't, it was like, you know, why are you at a conference if you don't wanna stay?
 
-MOLLY: And that’s not necessarily the best idea. 
+Olaya:
+I mean, it's the science equivalent of the 30-something, "oh, so when are you guys gonna get married?"
 
-As most audio producers know, changing a file name when you’re mid-production process can be a DISASTER. It breaks the links in your digital audio workstation session. The key with naming files is to make a formula now, and then follow that formula moving forward. 
+Upasana:
+Yeah, exactly. That's exactly what it is. [Peter: Mm-hmm <affirmative>] And so, you know, I had to really push back against this idea that, you know, the only reason, the only people who should be at a conference are people who wanna stay in academia. And I had to think about, yeah...
 
-[MUSIC]
+Olaya:
+No, you deserve to be there. So you've, you've been very clear about not wanting to be a PI and you've clearly worked a lot in career development. So, have you learned about careers that potentially interest you? Have you already started exploring any of those?
 
-A lot of times production feels more urgent than file organization. 
-Starting a podcast is hard. It’s even harder to be an independent podcaster, without an institution or a network handling some of the backend work. 
+Upasana:
+Yeah. Well, I guess I don't have single simple answer for, you know, this is the title of the position I want.
 
-Indie podcasters play so many different roles: they’re reporters, writers, audio engineers, accountants, social media managers, all rolled into one. And adding archivist to the list might seem like an impossible task.
+Olaya:
+Which is great.
 
-But even though this will add some extra work upfront, you can do it. The main message we hope you take away is that creating routines is the answer to getting some control over your files. 
+Upasana:
+Yeah. Which definitely keeps options open <laugh>. But I guess what I have thought more about is what kind of things I want to do on a day-to-day basis, no matter what, what the career is. So just hearing from people in different careers, you know, you get a sense for what takes up most of their time. And I think I would like to be in a career where I'm constantly learning about new research and, you know, talking to scientists, but not really doing experiments on a day-to-day basis. Some of these for example, would include, you know, being an editor at a scientific journal or, you know, a lot of grant giving agencies, NIH, or, you know, private foundations, Simons Foundation, for example, they have scientific officers who basically are going over grants and talking to scientists and figuring out what research is important. You know, those kinds of things where you're still kind of reading new research and you're reading more widely. So you're not super specialized on one protein in one pathway. So you're really still learning every day on the job, but I guess more widely on a day-to-day basis, something like that.
 
-And that’s what Dan is starting to do. In the couple months since we talked, he’s created new a file naming system.
+Olaya:
+So I'm just gonna steal a question from a friend of mine, that I got asked before I left academia for a non-research job, which is aren't you gonna miss it? <laugh>
 
-DAN: So right now, every file starts with the date -- year first, then month, then day. I'm separating them by dashes because it's so much easier for me to see. Then underscore, then a descriptive title like MollySchwartzInterviewAboutDataCollectionUpdate.
+Olaya:
+So I guess I will miss it, but, but I think if I make kind of a very intentional choice, knowing that, you know, I'm choosing this other life over, you know, research, you know, day-to-day experimental research, hopefully I won't be filled with regret every day. <laugh> You know, of course, you know, we, we always have to choose some things over the other, you know, in terms of our career choices, you know, you'll always leave things behind that you might miss and then do things that hopefully make up for it. So I guess as long as, you know, you are intentional and you know what you're giving up for, what other reward, hopefully, you know, you won't feel totally terrible about life decisions.
 
-MOLLY: Dan doesn’t have everything figured out yet. He’s still struggling with his folder template. But he’s made a start. 
+Olaya:
+<laugh>
 
-DAN: This is an ongoing task, and it never really stops. 
+Peter:
+And I think you make a good point saying that with every career, there is probably some part of your personality that might not be fulfilling or be fulfilled by that career. But if that career exists, that fulfills every part of who I am. One: somebody please tell me about this.
 
-MOLLY: Dan’s right -- preservation is a process. It’s good that he’s getting organized now. Because An Arm and a Leg show has gotten hundreds of thousands of downloads. It's gotten hundreds of five-star reviews on Apple podcasts. And they’ve gotten donations from listeners. Which means -- That Dan is in production on a second season.
+Olaya:
+<laughs>
 
-[MUSIC]
+Upasana:
+Exactly, exactly.
 
-MOLLY: If YOU would like to preserve your podcast for future listeners, visit our website at preservethispodcast.org. Subscribe to this podcast wherever you get your podcasts. And please take some time to rate and review.
+Peter:
+And two: maybe I'm just a really like unexciting person. I don't know.
 
-Preserve This Podcast is made possible through generous funding from the Andrew W. Mellon Foundation. It’s produced by me, Molly Schwartz, at the Metropolitan New York Library Council. My project co-leads are Mary Kidd and Dana Gerber-Margie. Sarah Nguyen is our project coordinator. Allison Behringer is our editor. Breakmaster Cylinder composed the theme music. Dalton Harts does the mixing and the mastering and the song you hear at the outro. Austin Eustice did our logo. Noah Litvin did the website. Such special thanks as well to Jeremy Helton and Jacob Kramer Duffield. We’ll be back in a couple of weeks with the next episode. Which is all about... storage.
+Upasana:
+Insatiable.
 
-[MUSIC]
+Olaya:
+Yeah, no, but also, and I had this conversation with my former PI 'cause the point they were making was kind of like, oh, but you like so many things you will need to find this, very perfect job that checks all the boxes. And I actually think this is not true. Like you can have a fulfilling job, something you'd really enjoy doing. And then you have your free time to do all these other things that make you whole as a person and they don't necessarily have to be related to your work work. Absolutely. Yeah. I would say don't sweat it, as long as you like your job and it's something that is worth it for you at the time. Go for it.
+
+Upasana:
+Thank you. I appreciate that. I feel very fortunate. Yeah. I think, I think I'm in a good place. Mm-hmm <affirmative>
+
+Peter:
+And I think that also speaks very directly to this from my experience. I don't wanna speak for all PIs out there and all of academia, but from my experience, seeing the PIs that I've had, their life is their work [Upasana mm-hmm <affirmative>] and that is the level of dedication that they have. And that's fantastic. [Upasana: Mm-hmm <affirmative>] but I also know that sometimes it doesn't leave as much time as they would like for other interests and other opportunities that they would otherwise be able to explore. And I'm not saying that's the wrong way to approach it. [Upasana: Mm-hmm <affirmative>] I'm just saying that if that is who you are [Upasana: right] in your research and career, it can be hard for you to think, why would someone not want to do it like this? Because I love research so much. It is my life.
+
+Olaya:
+Yeah. And I think Upasana you are such a great example because a lot of people, I think, feel like postdocs who don't pursue an academic career are... It's either because they're not passionate enough about their science or not good enough. [Upasana: Mm-hmm <affirmative>] and I feel like you completely debunked that, 'cause you're clearly great. You're giving short talks <laugh> as a fourth-year postdoc and you are a successful scientist and still you just made the rational decision of not staying academia and this is completely valid. [Upasana: Yep]. So I'm happy that you're here sharing your story.
+
+Upasana:
+<laugh> No, thank you so much. Yeah, I really, really feel like, you know, this whole idea that the only way to show to really enjoy research is to spend your whole life as a faculty member. I think, you know, there is so many ways to interact with research, to enjoy research, to talk about, you know, science, which is my field that, you know, if you want to do research, if you want to enjoy it for a few years, doing a postdoc that's totally fine, but it definitely doesn't obligate you, your love for research does not obligate you to, you know, only enjoy it in the role of faculty member. I think we, and I don't remember the stats on it, but you know, most postdocs will not, who might wanna stay in academia will not always get that opportunity. And you know, to kind of set up this system where that's the benchmark for being successful in science, I think does harm, you know, people's experience of what otherwise is a very, you know, exciting phase of your career.
+
+Peter:
+And it's a very narrow idea of what research is, if the only way to enjoy it is by being in a lab, in an academic institution.
+
+Upasana:
+Absolutely.
+
+Olaya:
+Yeah. Yeah.
+
+Peter:
+I'm now on my soapbox as of often.
+
+Olaya:
+<laugh>
+
+Olaya:
+Upasana, thank you so much for joining us on this. And before we let you go, we have one final question. [Upasana: Mm-hmm <affirmative>] Do you have any advice to listeners out there who might be considering a postdoc or a career change?
+
+Olaya:
+Yeah, I think that maybe, you know, what worked really well for me in making these choices is really thinking about, if you're thinking about a postoc think about why you wanna do it to be very, very intentional about it. I don't think that a postoc should be a default in your, in a career. So I would say that, you know, if you're choosing it, don't only think about what be doing in your postdoc, but also think about how it would affect the rest of your life, whether it's important for you, what other things are important to you in your life and how this would impact just your quality of life overall and not just think of it as just a job because it does bleed into our lives and our whole experience. So yeah, I would say, just think about what you enjoy, what you're looking for, what you're willing to give up on, what is extremely important and non-negotiable for you. And if all of these things work out for you in a postdoc then, yeah, go for it.
+
+Olaya:
+Thank you, Upasana. That's wisdom. [Upasana <laugh>] I wish I had this like three years ago so that I could print it and have it on my wall. [Peter: <laugh>] So, if our wonderful listeners want to hear more of these insights, is there anywhere on the internet where you can be found?
+
+Upasana:
+Yeah, well, I'm on Twitter, @roy_upasana, I love connecting with people through that, so be happy to connect there.
+
+Olaya:
+Great. It's been a pleasure talking to you again. I definitely miss our day-to-day. So this is [Upasana: I do too], this has been great. Thank you for spending time in your weekend with us and see you soon, hopefully.
+
+Olaya:
+Yeah, yeah, no, absolutely. And thank you so much for having me and most importantly, for taking out time on your Sundays to make this resource for other people. I really admire that you guys are putting in so much time and effort. It's really awesome. Thank you for doing that. Thank you.
+
+Peter:
+Thank you so much for joining us.
+
